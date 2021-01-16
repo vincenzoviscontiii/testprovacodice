@@ -4,7 +4,7 @@ jdk:
 
 addons:
     sonarcloud:
-        organizzation: "vincenzoviscontiii"
+        organization: "vincenzoviscontiii"
         token: 
             secure: ef869c9e8946406b8e267ed821d8858a3454b43f
             
